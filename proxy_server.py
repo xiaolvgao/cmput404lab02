@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#This file use for creat own server
 import socket
 import time
 
